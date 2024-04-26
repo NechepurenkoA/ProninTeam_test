@@ -10,7 +10,10 @@ readme = "README.md"
 python = "^3.12"
 django = "^5.0.4"
 djangorestframework = "^3.15.1"
-redis = "^5.0.4"
+python-dotenv = "^1.0.1"
+djoser = "^2.2.2"
+psycopg2-binary = "^2.9.9"
+django-redis = "^5.4.0"
 
 
 [tool.poetry.group.dev.dependencies]
